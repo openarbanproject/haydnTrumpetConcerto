@@ -4,4 +4,4 @@ Created as a proof-of-concept, here are the B-flat, C and E-flat trumpet parts f
 
 If you use Lilypond to create your edition then you can make an easy-to-read print out, share or sell own edition of this work... or maybe you just want a free copy to scribble on, that's fine too!
 
-Download the PDFs from this link: (Neoteric Brass Website)[https://neotericbrass.com/downloads/openhaydnconcerto/]
+Download the PDFs from this link: [Neoteric Brass Website](https://neotericbrass.com/downloads/openhaydnconcerto/).
