@@ -1,4 +1,4 @@
-\version "2.18.2"
+\version "2.24.0"
 \language "english"
 
 \book {
@@ -27,7 +27,7 @@
     \relative c'
     {
       \numericTimeSignature \time 6/8
-      \compressFullBarRests \override MultiMeasureRest.expand-limit = #2
+      \compressEmptyMeasures \override MultiMeasureRest.expand-limit = #2
       \key f \major
       R2.*8
       f8. g16 a8 g bf e, f4 a8 c r c ~ c bf a ~ a g f ~ f e16 g f d c4 r8 \break
